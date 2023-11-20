@@ -62,3 +62,24 @@ h4{
 .list{
     font-size: x-large;
 }
+
+table {
+    font-size: x-large;
+}
+
+thead{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.column-3{
+    width: 50%;
+}
+
+.row-1{
+    background-color: rgb(197, 245, 245);
+}
+
+.row-3{
+    background-color: rgb(197, 245, 245);
+}
