@@ -61,15 +61,21 @@ h4{
 
 .list{
     font-size: x-large;
+    padding-left: 20px;
 }
 
 table {
     font-size: x-large;
+    border-spacing: 0;
 }
 
 thead{
     background-color: dodgerblue;
     color: white;
+}
+
+th, td {
+    text-align: left;
 }
 
 .column-3{
@@ -83,3 +89,5 @@ thead{
 .row-3{
     background-color: rgb(197, 245, 245);
 }
+
+
