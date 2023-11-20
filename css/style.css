@@ -50,3 +50,15 @@ h4{
 .photo-2{
     margin: 0;
 }
+
+.text{
+    font-size: x-large;
+}
+
+.back-color{
+    background-color: yellow;
+}
+
+.list{
+    font-size: x-large;
+}
